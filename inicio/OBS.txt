@@ -1,0 +1,6 @@
+Para executar o codigo:
+ - no terminal, navegue até o diretorio que se encontra o arquivo 
+ - rode: node nome_arquivo.js
+
+Melhor organização do codigo: 
+     - modulos / divisão de codigos em diferentes arquivos
